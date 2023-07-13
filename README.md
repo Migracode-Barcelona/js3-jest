@@ -1,6 +1,12 @@
+# Jest exercises
+
+> ⚠️ **If your assignment has been given to you through GitHub Classroom, this repository *does not need to be forked*: open the created repository using CodeSpaces OR clone the created repository!**
+
+> 💡 Inside a CodeSpace or VS Code, you can also use the shortcut: Control+Alt+N (or ⌃ Control+⌥ Option+N on macOS), or press F1 and then select/type Run Code, the code will run and the output will be shown in the Output window.
+
 ## Getting Started
 
-First, you will need to clone the repo:
+First, you will need to clone the repo: (if you are not already inside a CodeSpace)
 
 ```bash
 $ git clone url-of-the-repo
@@ -86,3 +92,7 @@ Example: `jest -t "09-exercises"`
 Open the `10-exercise.test.js` file inside the `src/__tests__/` folder and solve the exercise by following the instructions. Then, you can check if your solution is correct by running `jest` from the terminal and passsing in the test suite name: `10-exercises`.
 
 Example: `jest -t "10-exercises"`
+
+### Make sure your code respects the [code style guide](https://syllabus.codeyourfuture.io/guides/code-style-guide) ✍️
+
+> If you are getting an error message when using `git push`, use `git push --force` instead! In general this is bad practice ⛔️ but GitHub Classroom requires it.
